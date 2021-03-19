@@ -1,0 +1,19 @@
+{
+  "name": "royalplay-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "canvas-senpai": "^1.0.0",
+    "discord-canvas": "^1.4.1",
+    "discord.js": "^12.5.1",
+    "discord-welcome-card": "^3.7.5",
+    "moment": "^2.29.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Danix25",
+  "license": "ISC"
+}
